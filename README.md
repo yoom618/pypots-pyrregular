@@ -53,10 +53,22 @@ python scripts/run_mascit_train_loss_only_single_dataset.py \
 ## Related Publication
 ```bibtex
 @inproceedings{jung2026mascit,
-  title={MASCIT: A Mask-Aware State Space Classifier for Naturally Irregular Time Series},
-  author={Yoo-Min Jung and Hyeon-Gi Kim and Jonghun Park},
-  booktitle={Proceedings of the 26th Asia-Pacific Industrial Engineering and Management Systems Conference (APIEMS)},
-  year={2026},
-  url={https://arxiv.org/abs/2609.34409}
+  title     = {{MASCIT}: A Mask-Aware State Space Classifier for Naturally Irregular Time Series},
+  author    = {Yoo-Min Jung and Hyeon-Gi Kim and Jonghun Park},
+  booktitle = {Proceedings of the 26th Asia-Pacific Industrial Engineering and Management Systems Conference (APIEMS)},
+  year      = {2026},
+  url       = {https://arxiv.org/abs/2609.34409}
+}
+
+
+@inproceedings{jung2026mambasl,
+  title     = {Mamba{SL}: Exploring Single-Layer Mamba for Time Series Classification},
+  author    = {Jung, Yoo-Min and Kim, Leekyung},
+  booktitle = {International Conference on Learning Representations},
+  year      = {2026},
+  url       = {https://arxiv.org/abs/2604.15174v1}
+  editor    = {C. Vondrick and B. Hariharan and C. Raffel and L. Pinto and D. Yang and A. Faust},
+  volume    = {2026},
+  pages     = {46790--46820},
 }
 ```
