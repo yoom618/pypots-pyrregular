@@ -1,0 +1,3 @@
+[submodule "PyPOTS"]
+	path = PyPOTS
+	url = https://github.com/WenjieDu/PyPOTS.git

@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+# testing_results/
+*.pypots
+events.out.tfevents.*

@@ -1,0 +1,3 @@
+-r ./PyPOTS/requirements/requirements.txt
+pyrregular
+psutil

@@ -1,0 +1,13 @@
+{
+  "d_model": [128],
+  "d_state": [16],
+  "expand": [1],
+  "d_conv": [4],
+  "dropout": [0.1],
+  "projection_type": ["gating"],
+  "n_heads": [4],
+  "tv_dt": [false, true],
+  "tv_B": [false, true],
+  "tv_C": [false, true],
+  "use_D": [false]
+}
